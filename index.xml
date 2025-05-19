@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Note to Brothers</title>
+    <link>http://localhost:1313/kantan-lecture/</link>
+    <description>Recent content on A Note to Brothers</description>
+    <generator>Hugo</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Mon, 19 May 2025 19:36:41 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/kantan-lecture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is this page?</title>
+      <link>http://localhost:1313/kantan-lecture/posts/about/</link>
+      <pubDate>Mon, 19 May 2025 19:36:41 +0900</pubDate>
+      <guid>http://localhost:1313/kantan-lecture/posts/about/</guid>
+      <description>&lt;p&gt;このページは私の弟にAIの知識を伝えるために書いている&#xA;いわば、家庭内掲示板のようなものです。&lt;/p&gt;&#xA;&lt;p&gt;よしなに。&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;投稿日: 2025年5月19日&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Whiter info</title>
+      <link>http://localhost:1313/kantan-lecture/posts/identity/</link>
+      <pubDate>Mon, 19 May 2025 19:36:41 +0900</pubDate>
+      <guid>http://localhost:1313/kantan-lecture/posts/identity/</guid>
+      <description>&lt;p&gt;PomPompudding&lt;/p&gt;&#xA;&lt;p&gt;東京理科大学電気電子情報工学科　&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>π0ってなに？</title>
+      <link>http://localhost:1313/kantan-lecture/posts/%CF%800%E3%81%A3%E3%81%A6%E3%81%AA%E3%81%AB/</link>
+      <pubDate>Mon, 19 May 2025 19:36:41 +0900</pubDate>
+      <guid>http://localhost:1313/kantan-lecture/posts/%CF%800%E3%81%A3%E3%81%A6%E3%81%AA%E3%81%AB/</guid>
+      <description>&lt;p&gt;&lt;em&gt;投稿日: 2025年5月19日&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>中学生でもわかるAIって何？はじめての人工知能入門</title>
+      <link>http://localhost:1313/kantan-lecture/posts/hello-brothers/</link>
+      <pubDate>Mon, 19 May 2025 19:36:41 +0900</pubDate>
+      <guid>http://localhost:1313/kantan-lecture/posts/hello-brothers/</guid>
+      <description>&lt;p&gt;&lt;em&gt;投稿日: 2025年5月19日&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
