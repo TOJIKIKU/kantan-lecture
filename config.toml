@@ -1,0 +1,10 @@
+
+languageCode = 'ja-jp'
+title = 'かんたんAIシリーズ'
+theme = 'ananke'
+summaryLength = 70  # 任意の文字数に変更可能
+
+
+[params]
+  description = '弟にもわかるように説明しています、、、、。'
+  author = 'TOJIKIKU'

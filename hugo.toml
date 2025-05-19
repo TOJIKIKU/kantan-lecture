@@ -1,0 +1,25 @@
+
+languageCode = 'ja-jp'
+title = 'A Note to Brothers'
+theme = "ananke"
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/posts/about/"
+  weight = 10
+[[menu.main]]
+  identifier = "identity"
+  name = "Whiter"
+  url = "/posts/identity/"
+  weight = 20
+[[menu.main]]
+  identifier = "---"
+  name = "---"
+  url = "/posts/aboutus/"
+  weight = 30
+
+
+
+
+
