@@ -1,4 +1,4 @@
-
+baseURL = "https://tojikiku.github.io/kantan-lecture/"
 languageCode = 'ja-jp'
 title = 'A Note to Brothers'
 theme = "ananke"
